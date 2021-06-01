@@ -1,6 +1,6 @@
-#Projet RapidoPasta
+# Projet RapidoPasta
 
-##Description
+## Description
 Web Application d'un restaurant italien.
 
 Il y a deux type d'utilisateurs :
@@ -8,7 +8,7 @@ Il y a deux type d'utilisateurs :
 - Les clients
 - Les employés du restaurant
 
-###Les clients
+### Les clients
 
 - Voir la carte
 - Voir un plat en détail
@@ -16,7 +16,7 @@ Il y a deux type d'utilisateurs :
 - Voir son panier + délai estimé de la livraison
 - Passer la commande
 
-###Les employés
+### Les employés
 
 - Voir la carte
 - Ajouter des nouveaux plats
@@ -26,11 +26,11 @@ Il y a deux type d'utilisateurs :
 - Voir les commandes des clients
 - Imprimer le ticket
 
-##Description technique
+## Description technique
 Une partie front et back qui communiqueront ensemble
 
-###Front
+### Front
 L'interface graphique utilisé par les clients et les emlployés
 
-###Back
+### Back
 Un serveur utilisant le systeme D'API
